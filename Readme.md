@@ -1,6 +1,6 @@
 # 或者你直接下载我调整好的
 ```
-git lclone https://github.com/luogantt/scout_ros2_humble_lg
+git clone https://github.com/luogantt/scout_ros2_humble_lg
 ```
 
 ```
